@@ -1,5 +1,6 @@
 # E-commerce-Website
-Welcome to the E-Commerce Website project! This project showcases a simple, responsive e-commerce website built using HTML and CSS. The website includes various sections such as the home page, product listings, product details
+Welcome to the E-Commerce Website project! This project showcases a simple, responsive e-commerce website built using HTML and CSS. The website includes various sections such as the home page, product listings, product details. the backend is handled using java and mongodb
+
 # Introduction
 This project demonstrates the creation of an e-commerce website using fundamental web development technologies. It is designed to be a starting point for developers looking to create their own e-commerce platforms or practice their HTML and CSS skills.
 
